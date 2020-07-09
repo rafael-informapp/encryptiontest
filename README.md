@@ -1,2 +1,2 @@
 # encryptiontest
-Quick symmetric encryption tets
+Quick symmetric encryption test
