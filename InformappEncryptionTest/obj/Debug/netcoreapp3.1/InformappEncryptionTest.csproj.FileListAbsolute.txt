@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\bin\Debug\netcoreapp3.1\InformappEncryptionTest.exe
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\bin\Debug\netcoreapp3.1\InformappEncryptionTest.deps.json
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\bin\Debug\netcoreapp3.1\InformappEncryptionTest.runtimeconfig.json
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\bin\Debug\netcoreapp3.1\InformappEncryptionTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\bin\Debug\netcoreapp3.1\InformappEncryptionTest.dll
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\bin\Debug\netcoreapp3.1\InformappEncryptionTest.pdb
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\obj\Debug\netcoreapp3.1\InformappEncryptionTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\obj\Debug\netcoreapp3.1\InformappEncryptionTest.AssemblyInfo.cs
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\obj\Debug\netcoreapp3.1\InformappEncryptionTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\obj\Debug\netcoreapp3.1\InformappEncryptionTest.dll
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\obj\Debug\netcoreapp3.1\InformappEncryptionTest.pdb
+C:\Users\User\source\repos\InformappEncryptionTest\InformappEncryptionTest\obj\Debug\netcoreapp3.1\InformappEncryptionTest.genruntimeconfig.cache
